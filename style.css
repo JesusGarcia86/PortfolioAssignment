@@ -1,0 +1,112 @@
+.wrapper {
+    background-color: #f9f9f9;
+    width: 995px;
+    margin: 0px auto;
+    height: 1100px;
+}
+.header {
+    background-color: #f8f8f8;
+}
+    .header h1 {
+        margin-top: 0px;
+        display: inline-block;
+        margin-bottom: 10px;
+        margin-right: 500px;
+        margin-left: 20px;
+    }
+    .header h3 {
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+.container {
+    width: 953px;
+    height: 900px;
+    background-color: #2d1b21;
+    padding: 20px;
+    margin-right: 0px;
+}
+.about {
+    margin-bottom: 20px;
+}    
+    .about img{
+        width: 415px;
+        height: 300px;
+        margin-right: 0px;
+        border: 3px solid grey;
+    }
+    .about div {
+        display: inline-block;
+        width: 500px;
+        vertical-align: top;
+        margin-left: 15px;
+        background-color:#f8f5f7;
+        height: 305px;
+    }
+    .about h3, .project h3, .project h4 {
+        background-color: #91909b;
+        margin-top: 0px;
+        padding: 10px;
+        color: white;
+        margin-bottom: 0px;
+    }
+    .about div p, .about div a {
+        padding: 10px;
+        color: black;
+    }
+.project {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    background-color: #f8f5f7;
+    margin-right: 15px;
+}
+    .project img {
+        width: 300px;
+        margin-bottom: 0px;
+    }
+    .project p {
+        background-color: #f8f5f7;
+        margin-top: -6px;
+        margin-bottom: 0px;
+        padding: 6px;
+        height: 160px;
+    }
+    .project div img {
+        width: 40px;
+        margin: 2px;
+        padding: 5px;
+    }
+    .project div button {
+        background-color: #407d61;
+        color: white;
+        margin-left: 110px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+.footer {
+    text-align: center;
+    vertical-align: middle;
+}
+    .footer img {
+        width: 25px;
+        margin-right: 1px;
+        vertical-align: middle;
+        margin-left: 1px;
+    }
+    .footer p:nth-of-type(2) {
+        display: inline-block;
+    }
+    .footer p:nth-of-type(3) {
+        display: inline-block;
+    }
+    .footer p:nth-of-type(4) {
+        display: inline-block;
+    }
+    .footer p:nth-of-type(5) {
+        display: inline-block;
+    }
+        
+        
+    
